@@ -11,7 +11,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"uuid",
+                        "id":"0f2e98bf-83c3-4d8f-a2fe-df88cec9f37c",
                         "flow":"xtls-rprx-direct"
                     }
                 ],
